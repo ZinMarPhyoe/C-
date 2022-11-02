@@ -30,6 +30,6 @@ namespace AtCoder
                 }
             }
             Console.WriteLine(sum);
-   }
- }
+        }
+    }
 }
