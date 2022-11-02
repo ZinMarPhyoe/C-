@@ -29,7 +29,7 @@ namespace AtCoder
             }
             result = Math.Abs(alice - bob);
            Console.WriteLine(result);
-}
-}
+        }
+    }
 }
             
