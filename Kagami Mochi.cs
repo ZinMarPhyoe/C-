@@ -30,6 +30,6 @@ namespace AtCoder
                 result++;
             }
             Console.WriteLine(result);
-}
-}
+       }
+   }
 }
