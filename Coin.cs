@@ -26,6 +26,6 @@ namespace AtCoder
                 }
             }
             Console.WriteLine(count);
-}
-}
+        }
+    }
 }
